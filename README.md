@@ -3,14 +3,14 @@ App for calculating running streak
 
 To run the App:
 
-1.) install node: https://nodejs.org/en/download/
+1.) Install node: https://nodejs.org/en/download/ 
 
-2.) in command line, cd to the "Running Streak" folder
+2.) Download repository, then in command line: cd to the folder containing everything in this repository
 
-3.) type "npm install" to install dependancies
+3.) Type "npm install" to install dependancies
 
-4.) type "node server" to start local server
+4.) Type "node server" to start local server
 
-5.) open a web browser and go to: "http://localhost:3000/"
+5.) Open a web browser and go to: "http://localhost:3000/"
 
 From there the app should open
